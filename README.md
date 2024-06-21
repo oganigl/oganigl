@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+#I'm currently doing projects in c and c++ to improve and learn more about these languages. 
 <!--
 **oganigl/oganigl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
